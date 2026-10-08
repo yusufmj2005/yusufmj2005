@@ -142,7 +142,7 @@ Data Access Control Management System — JWT auth, bcrypt hashing and server-en
 <summary><b>Domain</b></summary>
 <br/>
 
-`Biomedical Engineering` · `Clinical Decision Support` · `Biosensors` · `Molecular Diagnostics` · `Biotechnology` · `3D Printing`
+`AI / ML` · `Biomedical Engineering` · `Clinical Decision Support` · `Biosensors` · `Molecular Diagnostics` · `Biotechnology` · `3D Printing`
 
 </details>
 
