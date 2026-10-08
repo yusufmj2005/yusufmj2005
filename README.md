@@ -156,15 +156,31 @@ Data Access Control Management System — JWT auth, bcrypt hashing and server-en
 
 <br/>
 
-## 📊 Vitals
+## 🧭 Right now
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yusufmj2005&show_icons=true&hide_border=true&bg_color=0f2027&title_color=7FFFD4&icon_color=ff6b6b&text_color=c9d1d9&rank_icon=percentile"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmj2005&layout=compact&hide_border=true&bg_color=0f2027&title_color=7FFFD4&text_color=c9d1d9"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yusufmj2005&hide_border=true&background=0f2027&ring=7FFFD4&fire=ff6b6b&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7FFFD4&sideLabels=c9d1d9&dates=8b949e&stroke=2c5364"/>
-</p>
+| | |
+|:--|:--|
+| 🔬 **Researching** | MTA-ECG — whether arrhythmia *transition dynamics* add information beyond beat-level morphology and RR features |
+| 🛠️ **Building** | Practical software at **Alpixe Corp** |
+| 🧬 **Exploring** | Biosensors and molecular diagnostics at the edge of biotech and AI |
+| 🎓 **Graduating** | May 2027 · open to collaborating on medical-device and AI-for-healthcare work |
+
+<br/>
+
+## 🔁 How I build
+
+```mermaid
+flowchart LR
+    A["🫀 Body<br/>signal"] --> B["📟 Sensor<br/>AD8232 · MRI"]
+    B --> C["🧹 Clean<br/>band-pass · Pan-Tompkins"]
+    C --> D["🧮 Features<br/>HRV · morphology · transitions"]
+    D --> E["🧠 Model<br/>RF · CNN · fusion"]
+    E --> F["🩺 Decision<br/>explainable · clinician-first"]
+    classDef n fill:#0f2027,stroke:#7FFFD4,color:#e6edf3,stroke-width:1px;
+    classDef out fill:#0f2027,stroke:#ff6b6b,color:#e6edf3,stroke-width:2px;
+    class A,B,C,D,E n;
+    class F out;
+```
 
 <br/>
 
