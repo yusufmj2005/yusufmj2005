@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%2B%20Medical%20Engineering%20(AI%20%26%20DA)-7FFFD4?style=flat-square&labelColor=0f2027"/>
   <img src="https://img.shields.io/badge/SRIHER-Chennai-ff6b6b?style=flat-square&labelColor=0f2027"/>
   <img src="https://img.shields.io/badge/Graduating-May%202027-c9d1d9?style=flat-square&labelColor=0f2027"/>
-  <img src="https://komarev.com/ghpvc/?username=yusufmj2005&style=flat-square&color=2c5364&label=visitors"/>
 </p>
 
 ## `$ whoami`
