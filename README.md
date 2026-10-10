@@ -17,7 +17,6 @@ pronouns:   he/him
 studying:   B.Tech — Computer Science & Medical Engineering (AI & Data Analytics)
 university: Sri Ramachandra Institute of Higher Education and Research, Chennai
 building:   real-time biosignal systems · clinical decision support · practical software people actually use
-currently:  Alpixe Corp
 ```
 
 > I like the space where a heartbeat becomes a waveform, the waveform becomes features, and the features become a decision a clinician can trust.
