@@ -170,7 +170,7 @@ Built at Voluntary Health Services — logs equipment failures with downtime, lo
 | | |
 |:--|:--|
 | 🔬 **Researching** | MTA-ECG — whether arrhythmia *transition dynamics* add information beyond beat-level morphology and RR features |
-| 🛠️ **Building** | Practical software at **Alpixe Corp** |
+| 🛠️ **Building** | Practical software |
 | 🧬 **Exploring** | Biosensors and molecular diagnostics at the edge of biotech and AI |
 | 🎓 **Graduating** | May 2027 · open to collaborating on medical-device and AI-for-healthcare work |
 
